@@ -6,3 +6,9 @@ h1 {
 body {
   background-color: teal;
 }
+button {
+  background: tomato;
+  color: black;
+  font-size: 24px;
+  padding: 10px 20px;
+}
